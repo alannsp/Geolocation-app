@@ -41,9 +41,8 @@ function resetLocationDetails() {
 		lon: ""
 	});
 	$("table").addClass("empty");
-	if(current){
+
 	gmarkers[position].setMap(null);
-	}
 }
 
 function initializePage(){
