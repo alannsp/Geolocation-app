@@ -6,7 +6,6 @@
 
 **Run the test by open test.html and checkout the test file under test folder**
 
-# Avenue Code UI Challenge - Part I #
 
 ### Story Phrase ###
 * As a curious web surfer, I want to be able to locate both me and any website on a map.
